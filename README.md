@@ -7,7 +7,7 @@
 ## 🔥 Core Skills
 - Python
 - SQL
-- Machine Learning
+- Aritifical Intellegence
 - Data Analytics
 - Data Visualization
 - n8n Automation
@@ -18,7 +18,6 @@
 - 🤖 AI Fresher Job Agent
 - ❤️ Heart Disease Prediction System
 - 📊 E-Commerce Analytics Dashboard
-- 🧠 MLForge – AI Model Builder
 - ⚡ AlgoViz – Algorithm Visualizer
 
 📫 Connect with me:
