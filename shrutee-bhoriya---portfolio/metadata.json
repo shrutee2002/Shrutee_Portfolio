@@ -1,0 +1,6 @@
+{
+  "name": "Shrutee Bhoriya - Portfolio",
+  "description": "Interactive spatial 3D-styled portfolio for Shrutee Bhoriya, featuring interactive data dashboards, a virtual interactive physics canvas, and an AI career bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
